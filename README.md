@@ -1,7 +1,7 @@
 # 💫About Me :
-👋 Hi, I’m Thanh Dat
-🌱 I’m currently learning Software Engineering at FPT University HCM Campus
-📫 Contact me via trangiathanhdat02092002@gmail.com
+*👋 Hi, I’m Thanh Dat
+*🌱 I’m currently learning Software Engineering at FPT University HCM Campus
+*📫 Contact me via trangiathanhdat02092002@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dattran0209) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dattgt2902/) 
